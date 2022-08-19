@@ -1,2 +1,2 @@
 # GeMS_SCGS
-Customizations of the GeMS scripts for SCGS-specific needs.
+Just adding a few extra fields, and a new nonspatial table.
